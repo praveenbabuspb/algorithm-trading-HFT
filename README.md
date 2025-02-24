@@ -21,8 +21,8 @@ It aims to achieve a level of **high-frequency trading (HFT)** by executing trad
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/algorithmic-trading-bot.git
-cd algorithmic-trading-bot
+git clone https://github.com/yourusername/algorithmic-trading-HFT.git
+cd algorithmic-trading-HFT
 ```
 
 ### 2️⃣ Install Dependencies
@@ -50,7 +50,7 @@ module.exports = {
 ### 4️⃣ Run the Bot
 
 ```sh
-node bot.js
+node simulation.js
 ```
 
 ## ⚙️ How It Works
@@ -105,9 +105,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📩 Contact
 
-For any questions or support, please contact [support@shoonyaapi.com](mailto:support@shoonyaapi.com).
+For any questions or support, please DM me in [LinkedIn](https://www.linkedin.com/in/praveenbabuspb).
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [PRAVEEN BABU](https://github.com/praveenbabuspb)
 
