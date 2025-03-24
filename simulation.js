@@ -6,7 +6,7 @@ const api = new Api({});
 const TRADE_QTY = 1; 
 const MAX_DAILY_LOSS = 5000; 
 
-let dailyPnL = 0; 
+let dailyPnL = 0;
 let tradingStopped = false;
 let simulatedTrades = []; // Store simulated trades
 
